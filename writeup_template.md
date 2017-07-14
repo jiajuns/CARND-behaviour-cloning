@@ -2,11 +2,11 @@
 
 [//]: # (Image References)
 
-[image2]: ./examples/center_2017_07_13_23_45_58_498.png "new track"
-[image3]: ./examples/center_2017_07_13_19_20_34_746.png "Recovery Image"
-[image4]: ./examples/center_2017_07_13_19_20_35_448.png "Recovery Image"
-[image5]: ./examples/center_2017_07_13_19_20_35_826.png "Recovery Image"
-[image6]: ./examples/center_2017_07_13_18_54_58_883.png "Normal Image"
+[image2]: ./examples/center_2017_07_13_23_45_58_498.jpg "new track"
+[image3]: ./examples/center_2017_07_13_19_20_34_746.jpg "Recovery Image"
+[image4]: ./examples/center_2017_07_13_19_20_35_448.jpg "Recovery Image"
+[image5]: ./examples/center_2017_07_13_19_20_35_826.jpg "Recovery Image"
+[image6]: ./examples/center_2017_07_13_18_54_58_883.jpg "Normal Image"
 [image7]: ./examples/center_2017_07_13_18_54_58_883_flip.png "Flipped Image"
  
 ---
